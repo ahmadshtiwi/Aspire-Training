@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2cced13-48c2-4962-a0c7-55db5ed354cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d2cced13-48c2-4962-a0c7-55db5ed354cc" name="Changes" comment="modified assignment 3">
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment-2-recursion/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3-Array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3-Array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3-Array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3-Array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3-Array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3-Array/Assignment-3-Array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3-Array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3-Array/src/Operations.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -32,14 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alqdome/IdeaProjects/Aspire-Training&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "secondary",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/alqdome/IdeaProjects/Aspire-Training",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alqdome\IdeaProjects\Aspire-Training\Aspire-3-Array\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,6 +55,25 @@
       <option name="presentableId" value="Default" />
       <updated>1682518798701</updated>
     </task>
+    <task id="LOCAL-00001" summary="modified assignment 3">
+      <created>1683025938993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683025938993</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modified assignment 3">
+      <created>1683025956003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683025956003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modified assignment 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified assignment 3" />
   </component>
 </project>
