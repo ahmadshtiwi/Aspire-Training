@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2cced13-48c2-4962-a0c7-55db5ed354cc" name="Changes" comment="modified assignment 3">
+    <list default="true" id="d2cced13-48c2-4962-a0c7-55db5ed354cc" name="Changes" comment="Upload Convert Curring to Bi Function">
       <change afterPath="$PROJECT_DIR$/out/production/Assignment-2-recursion/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -32,16 +32,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "secondary",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/alqdome/IdeaProjects/Aspire-Training",
+    "last_opened_file_path": "C:/Users/alqdome/IdeaProjects/Aspire-Training/Additional assignment from curring to bifunction/src",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alqdome\IdeaProjects\Aspire-Training\Additional assignment from curring to bifunction\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alqdome\IdeaProjects\Aspire-Training\Aspire-3-Array\src" />
     </key>
@@ -69,11 +73,19 @@
       <option name="project" value="LOCAL" />
       <updated>1683025956003</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upload Convert Curring to Bi Function">
+      <created>1683739645160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683739645160</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modified assignment 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified assignment 3" />
+    <MESSAGE value="Upload Convert Curring to Bi Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Convert Curring to Bi Function" />
   </component>
 </project>
