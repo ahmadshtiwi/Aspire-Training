@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2cced13-48c2-4962-a0c7-55db5ed354cc" name="Changes" comment="Upload Convert Curring to Bi Function">
+    <list default="true" id="d2cced13-48c2-4962-a0c7-55db5ed354cc" name="Changes" comment="Upload Assignment 5 Data structure">
+      <change afterPath="$PROJECT_DIR$/Assignment6 Map/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment6 Map/src/MyMap.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Assignment-2-recursion/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -34,9 +44,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "secondary",
+    "git-widget-placeholder": "assignment5",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/alqdome/IdeaProjects/Aspire-Training/Additional assignment from curring to bifunction/src",
+    "last_opened_file_path": "C:/Users/alqdome/IdeaProjects/Aspire-Training",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -44,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alqdome\IdeaProjects\Aspire-Training" />
       <recent name="C:\Users\alqdome\IdeaProjects\Aspire-Training\Additional assignment from curring to bifunction\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -80,12 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683739645160</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Upload Assignment 5 Datastructure">
+      <created>1684084737392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684084737393</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upload Assignment 5 Data structure">
+      <created>1684084912366</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684084912366</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modified assignment 3" />
     <MESSAGE value="Upload Convert Curring to Bi Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Convert Curring to Bi Function" />
+    <MESSAGE value="Upload Assignment 5 Datastructure" />
+    <MESSAGE value="Upload Assignment 5 Data structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Assignment 5 Data structure" />
   </component>
 </project>
