@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aspire-3-Array/Aspire-3-Array.iml" filepath="$PROJECT_DIR$/Aspire-3-Array/Aspire-3-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Aspire-Training.iml" filepath="$PROJECT_DIR$/.idea/Aspire-Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 5 Datastructure/Assignment 5 Datastructure.iml" filepath="$PROJECT_DIR$/Assignment 5 Datastructure/Assignment 5 Datastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment-2-recursion/Assignment-2-recursion.iml" filepath="$PROJECT_DIR$/Assignment-2-recursion/Assignment-2-recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment_1/Assignment_1.iml" filepath="$PROJECT_DIR$/Assignment_1/Assignment_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Additional assignment from curring to bifunction/MyFunction Main CBiFunctionadditional assignment from curring to bifunction.iml" filepath="$PROJECT_DIR$/Additional assignment from curring to bifunction/MyFunction Main CBiFunctionadditional assignment from curring to bifunction.iml" />
     </modules>
   </component>
 </project>

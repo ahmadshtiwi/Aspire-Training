@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
 
 
-     public static void  printArray(int []arr)
+    public static void  printArray(int []arr)
     {
         System.out.print( "[ ");
         for (int number:arr) {
@@ -11,6 +11,7 @@ public class Main {
         }
         System.out.println("]");
     }
+
 
 
     public static void main(String[] args) {
