@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2cced13-48c2-4962-a0c7-55db5ed354cc" name="Changes" comment="Upload Convert Curring to Bi Function">
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment-2-recursion/Main.class" afterDir="false" />
+    <list default="true" id="d2cced13-48c2-4962-a0c7-55db5ed354cc" name="Changes" comment="Upload Assignment 5 Datastructur">
+      <change afterPath="$PROJECT_DIR$/Assignment7/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment7/src/CBiFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment7/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment7/src/Tuple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -29,25 +40,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "secondary",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/alqdome/IdeaProjects/Aspire-Training/Additional assignment from curring to bifunction/src",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;assignment5&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alqdome/IdeaProjects/Aspire-Training&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alqdome\IdeaProjects\Aspire-Training" />
       <recent name="C:\Users\alqdome\IdeaProjects\Aspire-Training\Additional assignment from curring to bifunction\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alqdome\IdeaProjects\Aspire-Training\Assignment5 Datastructer\src" />
       <recent name="C:\Users\alqdome\IdeaProjects\Aspire-Training\Aspire-3-Array\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,12 +96,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683739645160</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Upload Assignment 5 Datastructure">
+      <created>1684084737392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684084737393</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upload Assignment 5 Data structure">
+      <created>1684084912366</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684084912366</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modified assignment 3" />
     <MESSAGE value="Upload Convert Curring to Bi Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Convert Curring to Bi Function" />
+    <MESSAGE value="Upload Assignment 5 Datastructure" />
+    <MESSAGE value="Upload Assignment 5 Data structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Assignment 5 Data structure" />
   </component>
 </project>
